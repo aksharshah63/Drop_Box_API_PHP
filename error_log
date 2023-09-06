@@ -1,0 +1,359 @@
+[04-Jul-2023 05:02:40 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:02:40 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:02:40 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:02:40 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:02:40 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:04:10 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 87
+[04-Jul-2023 05:04:10 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 94
+[04-Jul-2023 05:04:10 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 101
+[04-Jul-2023 05:04:10 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 119
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 133
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $include_deleted_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 140
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $include_has_explicit_shared_members_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 147
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $include_media_info_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 154
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $include_mounted_folders_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 161
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $include_non_downloadable_files_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 168
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 175
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Undefined variable $recursive_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 182
+[04-Jul-2023 05:05:20 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 200
+[04-Jul-2023 05:07:12 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:07:12 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:07:12 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:07:12 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:07:12 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:08:53 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:08:53 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:08:53 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:08:53 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:08:53 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:13:12 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:13:12 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:13:12 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:13:12 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:13:12 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:13:17 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:13:17 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:13:17 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:13:17 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:13:17 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:13:21 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:13:21 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:13:21 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:13:21 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:13:21 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:13:24 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:13:24 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:13:24 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:13:24 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:13:24 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:13:32 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:13:32 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:13:32 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:13:32 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:13:32 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:13:33 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:13:33 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:13:33 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:13:33 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:13:33 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:14:02 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 84
+[04-Jul-2023 05:14:02 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 91
+[04-Jul-2023 05:14:02 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 98
+[04-Jul-2023 05:14:02 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 116
+[04-Jul-2023 05:14:12 UTC] PHP Warning:  Undefined variable $refresh_token in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 29
+[04-Jul-2023 05:14:12 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 91
+[04-Jul-2023 05:14:12 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 98
+[04-Jul-2023 05:14:12 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 116
+[04-Jul-2023 05:15:59 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:15:59 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:15:59 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:15:59 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:15:59 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:16:09 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:16:09 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:16:09 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:16:09 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:16:09 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:16:52 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 42
+[04-Jul-2023 05:16:52 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 96
+[04-Jul-2023 05:16:52 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 103
+[04-Jul-2023 05:16:52 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 110
+[04-Jul-2023 05:16:52 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 128
+[04-Jul-2023 05:22:05 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:22:05 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:22:05 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:22:05 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:22:05 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:22:24 UTC] PHP Warning:  Undefined variable $redirectUrl in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 64
+[04-Jul-2023 05:22:24 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:22:24 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:22:24 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:22:24 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:22:24 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:22:44 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:22:44 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:22:44 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:22:44 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:22:50 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:23:34 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:23:34 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:23:34 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:23:34 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:23:34 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:23:39 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:23:39 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:23:39 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:23:39 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:23:39 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:24:57 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:24:57 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:24:57 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:24:57 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:24:57 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:25:19 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:25:19 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:25:19 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:25:19 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:25:19 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:25:22 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:25:22 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:25:22 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:25:22 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:25:22 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:26:19 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:26:19 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:26:19 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:26:19 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:26:19 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:26:21 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:26:21 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:26:21 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:26:21 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:26:21 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:26:26 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:26:26 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:26:26 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:26:26 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:26:26 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:26:29 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:26:29 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:26:29 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:26:29 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:26:29 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:27:05 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:27:05 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:27:05 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:27:05 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:27:05 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:28:29 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:28:29 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:28:29 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:28:29 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:28:29 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:28:31 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:28:31 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:28:31 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:28:31 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:28:33 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:28:33 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:28:33 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:28:33 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:28:33 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:29:02 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:29:02 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:29:02 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:29:02 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:29:02 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:29:08 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:29:08 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:29:08 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:29:08 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:29:08 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:29:28 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:29:28 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:29:28 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:29:28 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:29:28 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:30:45 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:30:45 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:30:45 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:30:45 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:30:45 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:30:46 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:30:46 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:30:46 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:30:46 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:30:46 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:30:51 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:30:51 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:30:51 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:30:51 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:30:51 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:34:06 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:34:06 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:34:06 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:34:06 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:34:06 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 145
+[04-Jul-2023 05:34:10 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:34:10 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:34:10 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:34:10 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:34:54 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:34:54 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:34:54 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:34:54 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:34:54 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:35:10 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:35:10 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:35:10 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:35:10 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:35:10 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:35:14 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:35:14 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:35:14 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:35:14 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:37:18 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:37:18 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:37:18 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:37:18 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:37:18 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 144
+[04-Jul-2023 05:37:23 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 105
+[04-Jul-2023 05:37:23 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 112
+[04-Jul-2023 05:37:23 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 119
+[04-Jul-2023 05:37:23 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 126
+[04-Jul-2023 05:38:12 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 95
+[04-Jul-2023 05:38:12 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 102
+[04-Jul-2023 05:38:12 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 109
+[04-Jul-2023 05:38:12 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 116
+[04-Jul-2023 05:38:12 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 134
+[04-Jul-2023 05:38:14 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 95
+[04-Jul-2023 05:38:14 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 102
+[04-Jul-2023 05:38:14 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 109
+[04-Jul-2023 05:38:14 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 116
+[04-Jul-2023 05:38:40 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 84
+[04-Jul-2023 05:38:40 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 91
+[04-Jul-2023 05:38:40 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 98
+[04-Jul-2023 05:38:40 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 116
+[04-Jul-2023 05:39:07 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 84
+[04-Jul-2023 05:39:07 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 91
+[04-Jul-2023 05:39:07 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 98
+[04-Jul-2023 05:39:29 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 87
+[04-Jul-2023 05:39:29 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 94
+[04-Jul-2023 05:39:29 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 101
+[04-Jul-2023 05:39:29 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 119
+[04-Jul-2023 05:39:47 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 87
+[04-Jul-2023 05:39:47 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 94
+[04-Jul-2023 05:39:47 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 101
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 120
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 127
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $mode_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 134
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $mute_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 141
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 148
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $strict_conflict_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 155
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 162
+[04-Jul-2023 05:40:07 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 180
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 120
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 127
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $mode_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 134
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $mute_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 141
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 148
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $strict_conflict_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 155
+[04-Jul-2023 05:40:28 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 162
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 120
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 127
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $mode_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 134
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $mute_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 141
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 148
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $strict_conflict_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 155
+[04-Jul-2023 05:41:11 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 162
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 133
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $include_deleted_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 140
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $include_has_explicit_shared_members_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 147
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $include_media_info_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 154
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $include_mounted_folders_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 161
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $include_non_downloadable_files_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 168
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 175
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Undefined variable $recursive_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 182
+[04-Jul-2023 05:41:32 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 200
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 133
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $include_deleted_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 140
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $include_has_explicit_shared_members_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 147
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $include_media_info_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 154
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $include_mounted_folders_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 161
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $include_non_downloadable_files_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 168
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 175
+[04-Jul-2023 05:41:45 UTC] PHP Warning:  Undefined variable $recursive_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 182
+[04-Jul-2023 05:42:00 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 95
+[04-Jul-2023 05:42:00 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 102
+[04-Jul-2023 05:42:00 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 109
+[04-Jul-2023 05:42:00 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 116
+[04-Jul-2023 05:42:00 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 134
+[04-Jul-2023 05:42:08 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 84
+[04-Jul-2023 05:42:08 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 91
+[04-Jul-2023 05:42:08 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 98
+[04-Jul-2023 05:42:08 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 116
+[04-Jul-2023 05:42:13 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 87
+[04-Jul-2023 05:42:13 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 94
+[04-Jul-2023 05:42:13 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 101
+[04-Jul-2023 05:42:13 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 119
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 120
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 127
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $mode_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 134
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $mute_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 141
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 148
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $strict_conflict_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 155
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 162
+[04-Jul-2023 05:42:21 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 180
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 133
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $include_deleted_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 140
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $include_has_explicit_shared_members_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 147
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $include_media_info_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 154
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $include_mounted_folders_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 161
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $include_non_downloadable_files_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 168
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 175
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Undefined variable $recursive_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 182
+[04-Jul-2023 05:42:26 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 200
+[04-Jul-2023 05:43:42 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 95
+[04-Jul-2023 05:43:42 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 102
+[04-Jul-2023 05:43:42 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 109
+[04-Jul-2023 05:43:42 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 116
+[04-Jul-2023 05:43:42 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 134
+[04-Jul-2023 05:43:49 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 95
+[04-Jul-2023 05:43:49 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 102
+[04-Jul-2023 05:43:49 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 109
+[04-Jul-2023 05:43:49 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 116
+[04-Jul-2023 05:43:49 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/auth.php on line 134
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 133
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $include_deleted_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 140
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $include_has_explicit_shared_members_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 147
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $include_media_info_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 154
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $include_mounted_folders_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 161
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $include_non_downloadable_files_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 168
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 175
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Undefined variable $recursive_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 182
+[04-Jul-2023 05:44:04 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 200
+[04-Jul-2023 05:44:19 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 84
+[04-Jul-2023 05:44:19 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 91
+[04-Jul-2023 05:44:19 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 98
+[04-Jul-2023 05:44:19 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/refresh_token.php on line 116
+[04-Jul-2023 05:44:35 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 87
+[04-Jul-2023 05:44:35 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 94
+[04-Jul-2023 05:44:35 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 101
+[04-Jul-2023 05:44:35 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/create_folder.php on line 119
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 120
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $autore_name_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 127
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $mode_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 134
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $mute_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 141
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 148
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $strict_conflict_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 155
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 162
+[04-Jul-2023 05:44:48 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/file_upload.php on line 180
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 133
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $include_deleted_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 140
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $include_has_explicit_shared_members_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 147
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $include_media_info_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 154
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $include_mounted_folders_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 161
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $include_non_downloadable_files_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 168
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $path_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 175
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Undefined variable $recursive_error in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 182
+[04-Jul-2023 05:45:02 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/dropbox_api/list_folder.php on line 200
